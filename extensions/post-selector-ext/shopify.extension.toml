@@ -1,0 +1,2 @@
+type = "checkout_post_purchase"
+name = "post-selector-ext"
